@@ -2,6 +2,12 @@
 <pre-dex-items>
 
     <item
+        dex="/Users/JasonZhao/workspace/guoke/modouapi-android/app/build/intermediates/pre-dexed/debug/classes-57098f03e6c1a8f0b08d42b2621a3d0be82b160f.jar"
+        jar="/Users/JasonZhao/workspace/guoke/modouapi-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
         dex="/Users/JasonZhao/workspace/guoke/ModouDemo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ff65a2ea4fdc16298647cdee865abaf39b17d1e0.jar"
         jar="/Users/JasonZhao/tools/android_sdks/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"

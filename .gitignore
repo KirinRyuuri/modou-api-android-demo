@@ -1,0 +1,4 @@
+.gradle/*
+.idea/*
+build/intermediates/dex-cache/cache.xml
+build/intermediates/model_data.bin
